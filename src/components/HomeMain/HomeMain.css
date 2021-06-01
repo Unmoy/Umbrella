@@ -1,0 +1,34 @@
+.home-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.home-image {
+  background-image: url("../../images/light.jpg");
+  height: 70vh;
+  width: 60vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.home-info {
+}
+.btn1 {
+  margin: 10px;
+  background-color: black;
+  color: #ffffff;
+  padding: 10px 20px 10px 20px;
+  border: 1px solid black;
+}
+.btn2 {
+  margin: 10px;
+  background: transparent;
+  color: black;
+  padding: 10px 20px 10px 20px;
+  border: 1px solid black;
+}
+@media only screen and (max-width: 768px) {
+  .home-container {
+    display: block;
+    height: 100%;
+  }
+}
