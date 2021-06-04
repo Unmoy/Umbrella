@@ -2,23 +2,26 @@ import React from 'react';
 import chair1 from '../../images/Products/image1.jpg'
 import chair11 from '../../images/Products/image11.jpg'
 import chair5 from '../../images/Products/image5.jpg'
-import './HomeChair.css'
-
-const HomeChair = () => {
+import './HomeBed.css'
+const HomeBed = () => {
     return (
-        <section  style={{width:'99%'}}>
-            <div className='row  '>
+        <section style={{ width: '99%' }}>
+            <div className='row'>
+                <div className='col-md-7 p-4'>
+                    <div className='bedImage bed'>
+                    </div>
+                </div>
                 <div className='col-md-5 p-4'>
                     <div id="carouselExampleControls" className="carousel slide" data-bs-ride="carousel">
                         <div className="carousel-inner">
                             <div className="carousel-item active">
-                                <img src={chair1} className="d-block w-100" alt="..." height='600'/>
+                                <img src={chair1} className="d-block w-100" alt="..." height='600' />
                             </div>
                             <div className="carousel-item">
-                                <img src={chair5} className="d-block w-100" alt="..."height='600' />
+                                <img src={chair5} className="d-block w-100" alt="..." height='600' />
                             </div>
                             <div className="carousel-item">
-                                <img src={chair11} className="d-block w-100" alt="..." height='600'/>
+                                <img src={chair11} className="d-block w-100" alt="..." height='600' />
                             </div>
                         </div>
                         <button className="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
@@ -31,13 +34,9 @@ const HomeChair = () => {
                         </button>
                     </div>
                 </div>
-                <div className='col-md-7 p-4'>
-                    <div className='chairImage bd'>
-                    </div>
-                </div>
             </div>
         </section>
     );
 };
 
-export default HomeChair;
+export default HomeBed;

@@ -1,0 +1,142 @@
+[
+    {
+        "id": 1,
+        "Title": "Cozy Chair",
+        "Category ": "Chair",
+        "image": "https://i.ibb.co/kSFsWnD/31t-WSHIT-a-L-AC.jpg",
+        "price": 68,
+        "products": {
+            "brand": "cathedra",
+            "materials": "Textile,Steel,Wheel",
+            "color": "Gray Frame with Camo cushion",
+            "Style": "Glam",
+            "weight": "29 pounds"
+        }
+    },
+    {
+        "id": 2,
+        "Title": "Cozy Chair",
+        "Category ": "Chair",
+        "image": "https://i.ibb.co/w6fcxcV/61-H-Dj-U6-WTL-AC-SL1000.jpg",
+        "price": 8,
+        "products": {
+            "brand": "cathedra",
+            "materials": "Textile,Steel,Wheel",
+            "color": "Gray Frame with Camo cushion",
+            "Style": "Glam",
+            "weight": "29 pounds"
+        }
+    },
+    {
+        "id": 3,
+        "Title": "Cozy Chair",
+        "Category ": "Chair",
+        "image": "https://i.ibb.co/zH8nCLn/61r-DJ-0-ZJf-L-AC-SL1500.jpg",
+        "price": 17,
+        "products": {
+            "brand": "cathedra",
+            "materials": "Textile,Steel,Wheel",
+            "color": "Gray Frame with Camo cushion",
+            "Style": "Glam",
+            "weight": "29 pounds"
+        }
+    },
+    {
+        "id": 4,
+        "Title": "Cozy Chair",
+        "Category ": "Chair",
+        "image": "https://i.ibb.co/QYVRNcT/61-W2-Tz-Zz1-L-AC-SL1000.jpg",
+        "price": 8,
+        "products": {
+            "brand": "cathedra",
+            "materials": "Textile,Steel,Wheel",
+            "color": "Gray Frame with Camo cushion",
+            "Style": "Glam",
+            "weight": "29 pounds"
+        }
+    },
+    {
+        "id": 5,
+        "Title": "Cozy Chair",
+        "Category ": "Chair",
+        "image": "https://i.ibb.co/5x660gD/71-EPnu-d-Ga-L-AC-SL1500.jpg",
+        "price": 61,
+        "products": {
+            "brand": "cathedra",
+            "materials": "Textile,Steel,Wheel",
+            "color": "Gray Frame with Camo cushion",
+            "Style": "Glam",
+            "weight": "29 pounds"
+        }
+    },
+    {
+        "id": 6,
+        "Title": "Cozy Chair",
+        "Category ": "Chair",
+        "image": "https://i.ibb.co/BngrrhS/71-Gp-CPZ7-DML-AC-SL1500.jpg",
+        "price": 82,
+        "products": {
+            "brand": "cathedra",
+            "materials": "Textile,Steel,Wheel",
+            "color": "Gray Frame with Camo cushion",
+            "Style": "Glam",
+            "weight": "29 pounds"
+        }
+    },
+    {
+        "id": 7,
+        "Title": "Cozy Chair",
+        "Category ": "Chair",
+        "image": "https://i.ibb.co/c6MSgsk/71y-JSUp8m-CL-AC-SL1500.jpg",
+        "price": 27,
+        "products": {
+            "brand": "cathedra",
+            "materials": "Textile,Steel,Wheel",
+            "color": "Gray Frame with Camo cushion",
+            "Style": "Glam",
+            "weight": "29 pounds"
+        }
+    },
+    {
+        "id": 8,
+        "Title": "Cozy Chair",
+        "Category ": "Chair",
+        "image": "https://i.ibb.co/SdfL0dZ/71zki-XXha-OL-AC-SL1500.jpg",
+        "price": 17,
+        "products": {
+            "brand": "cathedra",
+            "materials": "Textile,Steel,Wheel",
+            "color": "Gray Frame with Camo cushion",
+            "Style": "Glam",
+            "weight": "29 pounds"
+        }
+    },
+    {
+        "id": 9,
+        "Title": "Cozy Chair",
+        "Category ": "Chair",
+        "image": "https://i.ibb.co/3YvgsYs/81aarywz98-L-AC-SL1500.jpg",
+        "price": 48,
+        "products": {
+            "brand": "cathedra",
+            "materials": "Textile,Steel,Wheel",
+            "color": "Gray Frame with Camo cushion",
+            "Style": "Glam",
+            "weight": "29 pounds"
+        }
+    },
+    {
+        "id": 10,
+        "Title": "Cozy Chair",
+        "Category ": "Chair",
+        "image": "https://i.ibb.co/jvGxxzN/81gf0-Wtt-ISL-AC-SL1500.jpg",
+        "price": 57,
+        "products": {
+            "brand": "cathedra",
+            "materials": "Textile,Steel,Wheel",
+            "color": "Gray Frame with Camo cushion",
+            "Style": "Glam",
+            "weight": "29 pounds"
+        }
+    }
+]

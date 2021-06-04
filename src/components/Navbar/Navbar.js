@@ -4,13 +4,13 @@ import { Link } from "react-router-dom";
 
 const Navbar = () => {
   return (
-    <nav class="navbar navbar-expand-lg navbar-light bg-transparent">
-      <div class="container-fluid">
-        <Link class="navbar-brand mx-3 ms-5" to="/">
+    <nav className="navbar navbar-expand-lg navbar-light bg-transparent">
+      <div className="container-fluid">
+        <Link className="navbar-brand mx-3 ms-5" to="/">
           UMBRELLA
         </Link>
         <button
-          class="navbar-toggler"
+          className="navbar-toggler"
           type="button"
           data-bs-toggle="collapse"
           data-bs-target="#navbarNavAltMarkup"
@@ -18,26 +18,26 @@ const Navbar = () => {
           aria-expanded="false"
           aria-label="Toggle navigation"
         >
-          <span class="navbar-toggler-icon"></span>
+          <span className="navbar-toggler-icon"></span>
         </button>
-        <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-          <div class="navbar-nav ms-5 my-3">
-            <Link class="nav-link mx-3 nav-link-ltr" aria-current="page" to="/">
+        <div className="collapse navbar-collapse" id="navbarNavAltMarkup">
+          <div className="navbar-nav ms-5 my-3">
+            <Link className="nav-link mx-3 nav-link-ltr" aria-current="page" to="/">
               Home
             </Link>
-            <Link class="nav-link mx-3 nav-link-ltr" to="/">
+            <Link className="nav-link mx-3 nav-link-ltr" to="/">
               Pages
             </Link>
-            <Link class="nav-link mx-3 nav-link-ltr" to="/">
+            <Link className="nav-link mx-3 nav-link-ltr" to="/">
               Store
             </Link>
-            <Link class="nav-link mx-3 nav-link-ltr" to="/">
+            <Link className="nav-link mx-3 nav-link-ltr" to="/">
               Blog
             </Link>
-            <Link class="nav-link mx-3 nav-link-ltr" to="/">
+            <Link className="nav-link mx-3 nav-link-ltr" to="/">
               Portfolio
             </Link>
-            <Link class="nav-link mx-3 nav-link-ltr" to="/">
+            <Link className="nav-link mx-3 nav-link-ltr" to="/">
               Login
             </Link>
           </div>

@@ -1,0 +1,6 @@
+.featuresContainer{
+    overflow-x: scroll;
+}
+.featuresContainer::-webkit-scrollbar{
+    display: none;
+}

@@ -1,0 +1,19 @@
+.bedImage{
+    background-image: url(../../images/Products/image11.jpg);
+    height: 400px;
+    background-size: 80%;
+    background-repeat: no-repeat;
+    background-position: top left;   
+    margin-top: 200px;
+   }
+
+ .bed::before{
+    background-image: linear-gradient(180deg, rgba(5, 11, 20, 0.28) 0%, rgba(1, 13, 32, 0.69) 90%, #0A0B1A 100%);
+    content: "";
+    display: block;
+    width: 80%;
+    height: 52vh;
+    position: relative;
+    opacity: 0.5;
+    top: 0;
+}

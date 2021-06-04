@@ -1,4 +1,6 @@
 import React from "react";
+import Features from "../Features/Features";
+import HomeBed from "../HomeBed/HomeBed";
 import Footer from "../Footer/Footer";
 import HomeChair from "../HomeChair/HomeChair";
 import HomeMain from "../HomeMain/HomeMain";
@@ -10,6 +12,8 @@ const Home = () => {
     <div>
       <HomeMain></HomeMain>
       <HomeChair></HomeChair>
+      <HomeBed></HomeBed>
+      <Features></Features>
       <Inspiration></Inspiration>
       <Newsletter></Newsletter>
       <Footer></Footer>
