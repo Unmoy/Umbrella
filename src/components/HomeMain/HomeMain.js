@@ -1,6 +1,5 @@
 import React from "react";
 import Navbar from "../Navbar/Navbar";
-import light from "../../images/light.jpg";
 
 import "./HomeMain.css";
 

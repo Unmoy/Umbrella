@@ -1,0 +1,37 @@
+.inspiration-container {
+  height: 100vh;
+  background-color: #9db97c;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.inspire-img {
+  width: 50vh;
+  height: 50vh;
+}
+.ins-img {
+  max-width: 50vh;
+  justify-content: space-around;
+}
+.ins-text {
+  justify-content: space-around;
+  max-width: 50vh;
+  margin-left: 20px;
+  position: relative;
+  color: aliceblue;
+}
+.subscribe-btn {
+  background-color: transparent;
+  border: 1px solid white;
+  padding: 10px;
+}
+/* .head1 {
+  position: absolute;
+  right: 70%;
+  top: -20%;
+}
+.head2 {
+  position: absolute;
+  right: 80%;
+  top: -20%;
+} */
