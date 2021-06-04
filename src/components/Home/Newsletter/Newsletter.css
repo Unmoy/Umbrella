@@ -1,0 +1,27 @@
+.newsletter-container {
+  background-color: #f9f0e9;
+  height: 80vh;
+  display: flex;
+  align-items: center;
+}
+.text-field {
+  font-size: 25px;
+  color: white;
+  border-top-left-radius: 20px;
+  border-bottom-left-radius: 20px;
+}
+.newsletter-text {
+  text-align: center;
+  color: grey;
+  font-family: "Satisfy", cursive;
+}
+
+.sub-btn {
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+
+input::-webkit-input-placeholder {
+  color: grey !important;
+  font-family: "Satisfy", cursive !important;
+}
