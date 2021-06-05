@@ -18,9 +18,11 @@ footer {
   margin: 20px 0 0 0;
   position: relative;
 }
+.social-icon {
+  font-size: 30px;
+}
 .box .content:before {
   position: absolute;
-
   top: -10px;
   height: 2px;
   width: 100%;
