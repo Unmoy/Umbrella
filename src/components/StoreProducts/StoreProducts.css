@@ -3,7 +3,6 @@
   font-weight: bold;
   margin: 10px;
   background-image: linear-gradient(90deg, #343a4f, #0f1620);
-  /* background-color: #4e567d; */
   background-color: #fff;
   box-shadow: 0 20px 40px -15px rgba(0, 0, 0, 0.25);
   border-left: 4px solid #4833fb;
@@ -20,9 +19,7 @@
 }
 .order-btn {
   background-image: linear-gradient(85deg, #61c7ef, #4833fb);
-  padding: 8px 17px;
   color: #fff;
-  text-decoration: none;
   border-radius: 6px;
   margin-left: 170px;
 }
