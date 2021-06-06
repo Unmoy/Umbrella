@@ -1,4 +1,6 @@
 import products from "../../FakeData/BedData.json";
+
+
 const initialState = {
   productList: products,
   cartList: [],
