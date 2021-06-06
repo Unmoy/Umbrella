@@ -3,17 +3,20 @@
   font-weight: bold;
   margin: 10px;
   background-image: linear-gradient(90deg, #343a4f, #0f1620);
-  /* background-color: #4e567d; */
-  background-color: #fff;
   box-shadow: 0 20px 40px -15px rgba(0, 0, 0, 0.25);
   border-left: 4px solid #4833fb;
+}
+.card-title {
+  text-transform: uppercase;
+  font-weight: bold;
+}
+.card-text {
+  font-size: 17px;
+  color: #4833fb;
 }
 .product-img {
   height: 200px;
   margin-top: 10px;
-}
-.card-title {
-  font-weight: bold;
 }
 .card-body {
   color: #d5e1ef;
@@ -27,5 +30,6 @@
   margin-left: 170px;
 }
 .order-btn:hover {
-  color: #fff;
+  color: #343a4f;
+  border-radius: 25px;
 }

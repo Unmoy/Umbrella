@@ -21,8 +21,8 @@ const Footer = () => {
           </p>
           <div class="social">
             <FontAwesomeIcon className="social-icon" icon={faTwitter} />
-            <FontAwesomeIcon icon={faFacebook} />
-            <FontAwesomeIcon icon={faInstagram} />
+            <FontAwesomeIcon className="social-icon" icon={faFacebook} />
+            <FontAwesomeIcon className="social-icon" icon={faInstagram} />
           </div>
         </div>
       </div>
@@ -54,7 +54,7 @@ const Footer = () => {
               <input type="email" />
             </div>
             <div class="messege">
-              <div class="text">Message :</div>
+              <div class="text">Message:</div>
               <input type="text-area" />
             </div>
             <div class="btn">

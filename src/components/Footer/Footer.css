@@ -20,6 +20,7 @@ footer {
 }
 .social-icon {
   font-size: 30px;
+  margin: 10px;
 }
 .box .content:before {
   position: absolute;
